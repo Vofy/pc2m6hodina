@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1647341414 source:v:\projekty\pc2m6hodina\main.c
+	<stdio.h>
+	<stdlib.h>
+
